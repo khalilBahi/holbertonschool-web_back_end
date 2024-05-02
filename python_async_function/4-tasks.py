@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""task"""
+"""task."""
 import asyncio
 from typing import List
 
